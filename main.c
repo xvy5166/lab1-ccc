@@ -1,7 +1,7 @@
-// author: xvy5166@psu.edu
-// contributor: zfx5078@psu.edu
-// contributor: svs6959@psu.edu
-// jtf5383@psu.edu
+// Author: xvy5166@psu.edu
+// Contributor: zfx5078@psu.edu
+// Contributor: svs6959@psu.edu
+// Contributor: jtf5383@psu.edu
 
 #include <stdio.h>
 #include <readline/readline.h>
